@@ -1,4 +1,4 @@
-curso-android
+curso Android
 =============
 
-Ejemplos del curso de android
+Código fuente del Curso de Programación Android
