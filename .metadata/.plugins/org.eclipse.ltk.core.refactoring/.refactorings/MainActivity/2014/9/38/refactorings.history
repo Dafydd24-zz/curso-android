@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 2 elements to &apos;ControlPers3/src/com.curso.android.controlpers3&apos;&#x0A;- Original project: &apos;MainActivity&apos;&#x0A;- Destination element: &apos;ControlPers3/src/com.curso.android.controlpers3&apos;&#x0A;- Original elements:&#x0A;     net.sgoliver.android.controlpers3.OnColorSelectedListener.java&#x0A;     net.sgoliver.android.controlpers3.SelectorColor.java" description="Copy compilation units" destination="=ControlPers3/src&lt;com.curso.android.controlpers3" element1="/src&lt;net.sgoliver.android.controlpers3{OnColorSelectedListener.java" element2="/src&lt;net.sgoliver.android.controlpers3{SelectorColor.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1411147176696" units="2" version="1.0"/>
+</session>

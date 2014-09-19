@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ControlPers2</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="text01">Usuario:</string>
+    <string name="text02">Contraseña:</string>
+    <string name="btn">Login</string>
+
+</resources>

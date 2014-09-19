@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CheckRadio</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    
+    <string name="marcar">Márcame!</string>
+    <string name="id_opcion_seleccionada">ID opción seleccionada: (ninguna)</string>
+	<string name="opcion_1">Opción 1</string>
+	<string name="opcion_2">Opción 2</string>
+
+</resources>
