@@ -4,7 +4,6 @@ INDEX VERSION 1.126+/Users/macbookpro/Documents/workspace/curso-android/.metadat
 2042627449.index
 1059192855.index
 3299667792.index
-3717379216.index
 1270315800.index
 3682636344.index
 344025902.index
