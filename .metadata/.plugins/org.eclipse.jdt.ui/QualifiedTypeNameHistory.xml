@@ -11,4 +11,9 @@
 <fullyQualifiedTypeName name="android.os.Bundle"/>
 <fullyQualifiedTypeName name="android.preference.PreferenceManager"/>
 <fullyQualifiedTypeName name="android.util.Log"/>
+<fullyQualifiedTypeName name="android.support.v4.app.FragmentActivity"/>
+<fullyQualifiedTypeName name="android.support.v7.appcompat.R"/>
+<fullyQualifiedTypeName name="com.google.android.gms.R"/>
+<fullyQualifiedTypeName name="com.curso.android.mapasapi2_2.R"/>
+<fullyQualifiedTypeName name="com.curso.android.mapasapi2_3.R"/>
 </qualifiedTypeNameHistroy>
