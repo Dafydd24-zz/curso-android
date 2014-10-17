@@ -1,7 +1,0 @@
-package com.curso.android.preference2;
-
-import android.preference.PreferenceFragment;
-
-public class PrefsFragment extends PreferenceFragment {
-
-}
